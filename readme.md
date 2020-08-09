@@ -30,10 +30,7 @@ Unity | C++ | Mobile
 <a href="https://github.com/iletai">
   <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 </a>
-<a href="https://t.me/damianrc">
-  <img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
-</a>
-<a href="https://codepen.io/iletai">
+<a href="https://codepen.io/https://codepen.io/letaii">
   <img align="left" alt="CodePen" width="22px" src="https://img.icons8.com/material/24/000000/codepen.png"/>
 </a>
 <a href="https://www.instagram.com/tai.lqt/">
