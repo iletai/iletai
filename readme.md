@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="https://github.com/iletai/iletai/blob/master/img/home-banner-bg.png">
+
 
 
 # Hello, I'm developer.
