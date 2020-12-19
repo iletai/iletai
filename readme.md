@@ -17,8 +17,6 @@ Unity | C++ | Mobile
 
 - I like coding, coffe, travel and play game 
 
-- Anyway, I not yet have girl friend -_-
-
 
 
 ## Some info about me
