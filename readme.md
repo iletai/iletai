@@ -1,7 +1,7 @@
 
 
 
-# Hello, I'm developer.
+# Hello, I'm Tàii nèe .
 
 Unity | C++ | Mobile
 
