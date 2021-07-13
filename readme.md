@@ -1,7 +1,7 @@
 
 
 
-# Hello, I'm Tàii nèe .
+# Hello, I'm Tài Lê .
 
 Unity | C#  | C++ | Mobile
 
@@ -34,6 +34,4 @@ Unity | C#  | C++ | Mobile
 <a href="mailto:iletai@hotmail.com">
   <img align="left" alt="Hotmail" width="22px" src="https://img.icons8.com/fluent/48/000000/mail.png"/>
 </a>
-<a href="https://stackoverflow.com/users/5421150/tài-lê">
-  <img align="left" alt="Stack" width="22px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
-</a>
+ 
