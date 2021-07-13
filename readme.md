@@ -3,7 +3,7 @@
 
 # Hello, I'm Tàii nèe .
 
-Unity | C++ | Mobile
+Unity | C#  | C++ | Mobile
 
 [![Github](https://img.shields.io/github/followers/iletai?style=social)](https://github.com/iletai)
 [![Github](https://img.shields.io/github/last-commit/iletai/iletai)](https://github.com/iletai/iletai)
@@ -13,7 +13,7 @@ Unity | C++ | Mobile
 
 ## About Me
 
-- I'm develop, design and build game, application
+- Let make it, design and build game, application
 
 - I like coding, coffe, travel and play game 
 
@@ -31,14 +31,8 @@ Unity | C++ | Mobile
 <a href="https://codepen.io/letaii">
   <img align="left" alt="CodePen" width="22px" src="https://img.icons8.com/material/24/000000/codepen.png"/>
 </a>
-<a href="https://www.instagram.com/tai.lqt/">
-  <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>
-</a>
 <a href="mailto:iletai@hotmail.com">
   <img align="left" alt="Hotmail" width="22px" src="https://img.icons8.com/fluent/48/000000/mail.png"/>
-</a>
-<a href="https://www.facebook.com/iletai">
-  <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
 </a>
 <a href="https://stackoverflow.com/users/5421150/tài-lê">
   <img align="left" alt="Stack" width="22px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
