@@ -3,7 +3,7 @@
 
 # Hello, I'm Tài Lê .
 
-Unity | C#  | C++ | Mobile
+Unity | C#  | C++ | iOS Developer
 
 [![Github](https://img.shields.io/github/followers/iletai?style=social)](https://github.com/iletai)
 [![Github](https://img.shields.io/github/last-commit/iletai/iletai)](https://github.com/iletai/iletai)
