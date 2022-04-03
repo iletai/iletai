@@ -1,37 +1,25 @@
+<h2> Hi, I'm Tài Lê! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80"></h2>
+<img align='right' src="https://64.media.tumblr.com/cf87668f1394f62a25dde8c6a52d64fc/tumblr_n8z4jjABDx1rylr5to1_500.gifv" width="230" >
+<p><em>Learning Software Enginner at <a href="http://www.unb.br">Hue University Of Education</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Software at <a href="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif">FPT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Facebook: Tai Le](https://img.shields.io/badge/social-facebook-blue)](http://facebook.com/iletai)
+[![Linkedin: letaii](https://img.shields.io/badge/-letaii-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/letaii/)](https://www.linkedin.com/in/letaii/)
+[![GitHub Tai Le](https://img.shields.io/github/followers/iletai?label=follow&style=social)](https://github.com/iletai)
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-# Hello, I'm Tài Lê .
+```javascript
+const TaiLe = {
+  pronouns: "him",
+  code: [C#, C++, Unity, Swift],
+  tools: [Visual Studio, Xcode, Unreal Engine, Storybook, Markdown],
+  architecture: ["Game Development", "Mobile Development", "Design Pattern"],
+ challenge: "I am doing build of myself"
+}
+```
 
-Unity | C#  | C++ | iOS Developer
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-[![Github](https://img.shields.io/github/followers/iletai?style=social)](https://github.com/iletai)
-[![Github](https://img.shields.io/github/last-commit/iletai/iletai)](https://github.com/iletai/iletai)
-[![Github](https://img.shields.io/github/stars/iletai/iletai?style=social)](https://github.com/iletai/iletai)
-[![Github](https://img.shields.io/github/watchers/iletai/iletai?style=social)](https://github.com/iletai/iletai)
-
-
-## About Me
-
-- Let make it, design and build game, application
-
-- I like coding, coffe, travel and play game 
-
-
-
-## Some info about me
-
-
-<a href="https://www.linkedin.com/in/tai-le-55387619b">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/iletai">
-  <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
-</a>
-<a href="https://codepen.io/letaii">
-  <img align="left" alt="CodePen" width="22px" src="https://img.icons8.com/material/24/000000/codepen.png"/>
-</a>
-<a href="mailto:iletai@hotmail.com">
-  <img align="left" alt="Hotmail" width="22px" src="https://img.icons8.com/fluent/48/000000/mail.png"/>
-</a>
- 
+---
