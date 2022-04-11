@@ -1,6 +1,6 @@
 <h1> Hi, I'm Tài Lê! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://64.media.tumblr.com/cf87668f1394f62a25dde8c6a52d64fc/tumblr_n8z4jjABDx1rylr5to1_500.gifv" width="230" >
-<p><em>Learning Software Enginner at <a href="http://www.google.com">Hue University Of Education</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Software at <a href="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif">FPT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="140"> 
 </em></p>
 
 [![Facebook: Tai Le](https://img.shields.io/badge/social-facebook-blue)](http://facebook.com/iletai)
