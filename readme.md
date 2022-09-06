@@ -11,10 +11,10 @@
 
 ```javascript
 const TaiLe = {
-  pronouns: "him",
+  pronouns: "Him",
   code: [C#, C++, Unity, Swift],
-  tools: [Visual Studio, Xcode, Unreal Engine, Storybook, Markdown],
-  architecture: ["Game Development", "Mobile Development", "Design Pattern"],
+  tools: [Visual Studio, Xcode],
+  architecture: ["Game Development", "Mobile Development"],
  challenge: "I am doing build of myself"
 }
 ```
