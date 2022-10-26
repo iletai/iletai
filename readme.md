@@ -18,6 +18,6 @@ const TaiLe = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Ai cũng nghĩ mình đau khổ nhưng chưa từng nhìn vào nổi đau của nguời khác!</b><b> Ai cũng mang trong mình mỗi câu chuyện!</b><b>Thế giới này thật đẹp biết bao khi con nguoi ta biết bao dung và chia sẽ, IT cũng vậy. Thanks for gift from everyone!</b> :)</em>
 
 ---
