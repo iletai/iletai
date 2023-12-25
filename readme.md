@@ -11,13 +11,10 @@
 ```javascript
 const TaiLe = {
   pronouns: "Him",
-  code: [C#, C++, Unity, Swift],
+  code: [C#, SwiftUI, Unity, Swift],
   tools: [Visual Studio, Xcode],
   architecture: ["Game Development", "Mobile Development"],
- challenge: "I am doing build of myself"
+ challenge: "I am doing a build of myself"
 }
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Ai cũng nghĩ mình đau khổ nhưng chưa từng nhìn vào nổi đau của nguời khác!</b><b> Ai cũng mang trong mình mỗi câu chuyện!</b><b> Thế giới này thật đẹp biết bao khi con nguoi ta biết bao dung và chia sẽ, IT cũng vậy. Thanks for gift from everyone!</b></em>
-
 ---
