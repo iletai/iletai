@@ -15,7 +15,7 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&height=40&lines=%24+neofetch+--skills" alt="Terminal typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&height=40&lines=%24+iletai+--skills" alt="Terminal typing" />
 </div>
 
 <table>
