@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="140">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=58A6FF&vCenter=true&repeat=true&width=380&height=30&lines=iOS+Developer+%F0%9F%93%B1;AWS+Backend+Engineer+%E2%98%81%EF%B8%8F;Load+Testing+with+JMeter+%F0%9F%A7%AA;Game+Dev+with+Unity+%F0%9F%8E%AE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=1000&color=58A6FF&vCenter=true&repeat=true&width=380&height=30&lines=iOS+Developer+%F0%9F%93%B1;AWS+Backend+Engineer+%E2%98%81%EF%B8%8F;Load+Testing+with+JMeter+%F0%9F%A7%AA;Game+Dev+with+Unity+%F0%9F%8E%AE" alt="Typing SVG" />
 
 [![Linkedin: iletai](https://img.shields.io/badge/-iletai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iletai/)](https://www.linkedin.com/in/iletai/)
 [![GitHub Tai Le](https://img.shields.io/github/followers/iletai?style=social)](https://github.com/iletai)
@@ -15,7 +15,7 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&height=40&lines=%24+u --iletai+--skills" alt="Terminal typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&height=40&lines=%24+neofetch+--skills" alt="Terminal typing" />
 </div>
 
 <table>
