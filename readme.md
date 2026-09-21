@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Tokyo Night Waving Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,24,30&height=220&section=header&text=T%C3%A0i%20L%C3%AA&fontSize=48&fontColor=7aa2f7&animation=fadeIn&fontAlignY=38&desc=Staff%20/%20Senior%20Systems%20%26%20Mobile%20Engineer&descFontSize=18&descColor=a9b1d6&descAlignY=58" width="100%" alt="Tokyo Night Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,24,30&height=220&section=header&text=T%C3%A0i%20L%C3%AA&fontSize=48&fontColor=7aa2f7&animation=fadeIn&fontAlignY=38&desc=Staff%20/%20Senior%20Systems%20%E2%80%A2%20Mobile%20Engineer&descFontSize=18&descColor=a9b1d6&descAlignY=58" width="100%" alt="Tokyo Night Banner" />
 
   <!-- Animated Terminal Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=7AA2F7&center=true&vCenter=true&repeat=true&width=560&height=42&lines=%24+iletai+--stack+%3D+SwiftUI+%2B+TCA+%2B+Modern+Concurrency;%24+iletai+--cloud+%3D+AWS+Serverless+%2B+DynamoDB+STD;%24+iletai+--stress-test+%3D+Apache+JMeter+%26+k6+Distributed;%24+iletai+--directive+%3D+Validate+under+stress+before+production" alt="Typing SVG" />
